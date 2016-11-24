@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="iwsnip.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="inlogdir" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">c:\i3\ic\logs\</Value>
+    </Setting>
+    <Setting Name="logsnipver4path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\I3\IC\ININ Trace Initialization\logsnip.exe</Value>
+    </Setting>
+    <Setting Name="logsnipver3path" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\i3\ic\server\logsnip.exe</Value>
+    </Setting>
+    <Setting Name="big4" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">IP,TSServer,SIPEngine,ClientServices,Notifier,SessionManager,recorder server</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
